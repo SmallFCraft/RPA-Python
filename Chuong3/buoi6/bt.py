@@ -24,7 +24,6 @@ print("____________________________________")
 DiemTB = (dfInput["DiemPython"] + dfInput["DiemWeb"] + dfInput["DiemDatabase"]) / 3
 print(DiemTB)
 
-# 5. Tạo cột 
-
+# 5. Tạo cột
 
 
